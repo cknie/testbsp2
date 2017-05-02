@@ -1,1 +1,3 @@
 Füge in den Master Branch eine Textdatei "Test.txt" ein und shcreib etwas hinein
+
+Erstelle einen Branch "dev" und ändere die Datei "Test.txt"
